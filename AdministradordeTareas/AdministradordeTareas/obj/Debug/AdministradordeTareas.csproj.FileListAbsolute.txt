@@ -1,0 +1,10 @@
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe.config
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.pdb
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csprojAssemblyReference.cache
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.Administrador_Tareas.resources
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.Properties.Resources.resources
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.GenerateResource.cache
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.CoreCompileInputs.cache
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.exe
+C:\Users\CINDY\source\repos\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.pdb
