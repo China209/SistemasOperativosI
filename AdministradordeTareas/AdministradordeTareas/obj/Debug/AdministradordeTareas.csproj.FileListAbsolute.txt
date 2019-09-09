@@ -19,3 +19,14 @@ C:\Users\CINDY\Desktop\SistemasOperativosI\AdministradordeTareas\Administradorde
 C:\Users\CINDY\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.exe
 C:\Users\CINDY\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.pdb
 C:\Users\CINDY\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.NuevaTarea.resources
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe.config
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.pdb
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.Administrador_Tareas.resources
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.NuevaTarea.resources
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.Properties.Resources.resources
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.exe
+C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.pdb
