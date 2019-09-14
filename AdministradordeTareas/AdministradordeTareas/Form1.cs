@@ -15,7 +15,7 @@ namespace AdministradordeTareas
         public Administrador_Tareas()
         {
             InitializeComponent();
-            this.Size = new System.Drawing.Size(1050, 600);
+            this.Size = new System.Drawing.Size(1050, 800);
             this.StartPosition = FormStartPosition.CenterScreen;
             ActualizarProcesos();
         }
@@ -89,6 +89,23 @@ namespace AdministradordeTareas
         private void ltbxCPU_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            float fCPU = pcCPU.NextValue();
+            float fRAM = pcRAM.NextValue();
+            progressBarCPU.Value = (int)fCPU;
+            progressBarRAM.Value = (int)fRAM;
+            lblCPU.Text = string.Format("{0:0.00}%", fCPU);
+            lblRAM.Text = string.Format("{0:0.00}%", fRAM);
+            chart1.Series["CPU"].Points.AddY(fCPU);
+            chart1.Series["RAM"].Points.AddY(fRAM);
+        }
+
+        private void tpRendimiento_Click(object sender, EventArgs e)
+        {
+            timer1.Start();
         }
     }
 }
