@@ -30,3 +30,25 @@ C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\Administradord
 C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.CoreCompileInputs.cache
 C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.exe
 C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.pdb
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe.config
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.pdb
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csprojAssemblyReference.cache
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.Administrador_Tareas.resources
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.NuevaTarea.resources
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.Properties.Resources.resources
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.GenerateResource.cache
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.CoreCompileInputs.cache
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.exe
+C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.pdb
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe.config
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\bin\Debug\AdministradordeTareas.pdb
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\obj\Debug\AdministradordeTareas.csprojAssemblyReference.cache
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\obj\Debug\AdministradordeTareas.Administrador_Tareas.resources
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\obj\Debug\AdministradordeTareas.NuevaTarea.resources
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\obj\Debug\AdministradordeTareas.Properties.Resources.resources
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.GenerateResource.cache
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\obj\Debug\AdministradordeTareas.csproj.CoreCompileInputs.cache
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\obj\Debug\AdministradordeTareas.exe
+C:\Users\dairy\Desktop\UMG\sexto semestre\Sistemas Operativos\pruebas admin tareas\AdministradordeTareasp2\AdministradordeTareas\obj\Debug\AdministradordeTareas.pdb
