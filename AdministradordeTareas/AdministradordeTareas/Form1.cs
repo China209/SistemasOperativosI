@@ -58,6 +58,8 @@ namespace AdministradordeTareas
                 ltbxProcesos.Items.Add(iId + ":" + p.ProcessName);
                 ltbxCPU.Items.Add(iId + ":" + p.SessionId);
                 ltbxMemoria.Items.Add(item: iId + ":" + p.WorkingSet64);
+                ltbxDisco.Items.Add(item: iId + ":" + p.PrivateMemorySize64);
+                ltbxMemoriaVirtual.Items.Add(item: iId + ":" + p.VirtualMemorySize64);
                 iId++;
             }
 
@@ -80,7 +82,7 @@ namespace AdministradordeTareas
             ltbxDisco.Items.Clear();
             ltbxMemoria.Items.Clear();
             ltbxProcesos.Items.Clear();
-            ltbxRed.Items.Clear();
+            ltbxMemoriaVirtual.Items.Clear();
         }
 
         private void btnFinTarea_Click(object sender, EventArgs e)
