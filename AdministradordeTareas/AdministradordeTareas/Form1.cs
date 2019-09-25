@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.ServiceProcess;
+using Microsoft.VisualBasic;
 
 namespace AdministradordeTareas
 {
@@ -179,6 +180,58 @@ namespace AdministradordeTareas
             {
                 button2.Enabled = true;
                 button1.Enabled = false;
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            GetProcesses();
+        }
+
+        private void GetProcesses()
+        {
+            Process[] task = Process.GetProcesses();
+            foreach (Process proc in task)
+            {
+                listBox1.Items.Add(proc.ProcessName);
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Process[] task = Process.GetProcesses();
+            foreach(Process proc in task)
+            {
+                if(listBox1.SelectedItem.ToString()==proc.ProcessName)
+                {
+                    proc.Kill();
+                    break;
+                }
+                
+            }
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            Process[] task = Process.GetProcesses();
+            foreach (Process proc in task)
+            {
+                if (listBox1.SelectedItem.ToString() == proc.ProcessName)
+                {
+                    string temp = string.Empty;
+                    
+                    MessageBox.Show("ID Proceso: " + proc.Id.ToString());
+                    MessageBox.Show("Tiempo Usuario: " + proc.UserProcessorTime.ToString());
+                    MessageBox.Show("Inicio a: " + proc.StartTime.ToString());
+                    
+                    break;
+                }
+
             }
         }
     }
