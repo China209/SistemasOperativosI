@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using System.ServiceProcess;
 using Microsoft.VisualBasic;
+using GettingAllUsers;
+using System.Runtime.InteropServices;
 
 namespace AdministradordeTareas
 {
@@ -24,6 +26,31 @@ namespace AdministradordeTareas
             progressBar1.Style = ProgressBarStyle.Marquee;
             progressBar1.Visible = false;
             GetWindowServices();
+            EnumerateUsers();
+        }
+
+        // Clase para listar los usarios
+        public void EnumerateUsers()
+        {
+            int EntriesRead;
+            int TotalEntries;
+            int Resume;
+            listBox2.Items.Clear();
+            IntPtr bufPtr;
+            GettingAllUsers.NetworkAPI.NetUserEnum(null, 0, 2, out bufPtr, -1, out EntriesRead, out TotalEntries, out Resume);
+            if (EntriesRead > 0)
+            {
+                NetworkAPI.USER_INFO_0[] Users = new NetworkAPI.USER_INFO_0[EntriesRead];
+                IntPtr iter = bufPtr;
+                for (int i = 0; i < EntriesRead; i++)
+                {
+                    Users[i] = (NetworkAPI.USER_INFO_0)Marshal.PtrToStructure(iter, typeof(NetworkAPI.USER_INFO_0));
+                    iter = (IntPtr)((int)iter + Marshal.SizeOf(typeof(NetworkAPI.USER_INFO_0)));
+                    listBox2.Items.Add(Users[i].Username);
+                }
+                NetworkAPI.NetApiBufferFree(bufPtr);
+            }
+            listBox2.SelectedIndex = 0;
         }
 
         private void GetWindowServices()
@@ -234,5 +261,5 @@ namespace AdministradordeTareas
 
             }
         }
-    }
-}
+      }
+  }
