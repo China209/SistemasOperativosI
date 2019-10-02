@@ -120,13 +120,7 @@ namespace AdministradordeTareas
 
         private void nuevaTareaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            using(NuevaTarea frm=new NuevaTarea())
-            {
-                if (frm.ShowDialog() == DialogResult.OK)
-                {
-                    ActualizarProcesos();
-                }
-            }
+           
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -285,6 +279,17 @@ namespace AdministradordeTareas
         private void tpServicios_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void nuevaTareaToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            using (NuevaTarea frm = new NuevaTarea())
+            {
+                if (frm.ShowDialog() == DialogResult.OK)
+                {
+                    ActualizarProcesos();
+                }
+            }
         }
     }
   }
