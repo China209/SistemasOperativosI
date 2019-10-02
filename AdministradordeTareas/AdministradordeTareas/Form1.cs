@@ -261,5 +261,30 @@ namespace AdministradordeTareas
 
             }
         }
-      }
+
+        private void tpProcesos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cerrar_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void minimizar_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void chart1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tpServicios_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
   }
