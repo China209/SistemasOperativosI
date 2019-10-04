@@ -33,7 +33,6 @@ C:\Users\Daniel\Desktop\SistemasOperativosI\AdministradordeTareas\Administradord
 C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe.config
 C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.exe
 C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\bin\Debug\AdministradordeTareas.pdb
-C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.csprojAssemblyReference.cache
 C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.Administrador_Tareas.resources
 C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.NuevaTarea.resources
 C:\Users\dairy\Desktop\admintareas\SistemasOperativosI\AdministradordeTareas\AdministradordeTareas\obj\Debug\AdministradordeTareas.Properties.Resources.resources
